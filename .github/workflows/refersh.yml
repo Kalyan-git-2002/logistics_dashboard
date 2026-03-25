@@ -24,8 +24,8 @@ jobs:
 
       - name: Run export script
         env:
-          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
-          AWS_SECRET_KEY: ${{ secrets.AWS_SECRET_KEY }}
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY}}
+          AWS_SECRET_KEY: ${{ secrets.AWS_SECRECT_KEY}}
         run: python export_data.py
 
       - name: Push CSV to repo
