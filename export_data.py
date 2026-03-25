@@ -11,13 +11,13 @@ BUCKET = "s3://clg-demo-2026"
 
 # Read Gold Delta tables
 print("Reading fact_deliveries...")
-fact_df = pl.read_delta(
+fact_df = pl.read_parquet(
     f"{BUCKET}/powerbi/fact",
     storage_options = storage_options
 )
 
 print("Reading dim_date...")
-dim_df = pl.read_delta(
+dim_df = pl.read_parquet(
     f"{BUCKET}/powerbi/dim/dim_date/",
     storage_options = storage_options
 )
