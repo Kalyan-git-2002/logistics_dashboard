@@ -1,4 +1,3 @@
-from deltalake import DeltaTable
 import polars as pl
 import os
 
@@ -13,13 +12,13 @@ BUCKET = "s3://clg-demo-2026"
 # Read Gold Delta tables
 print("Reading fact_deliveries...")
 fact_df = pl.read_delta(
-    f"{BUCKET}/gold/fact/",
+    f"{BUCKET}/powerbi/fact",
     storage_options = storage_options
 )
 
 print("Reading dim_date...")
 dim_df = pl.read_delta(
-    f"{BUCKET}/gold/dim/dim_date/",
+    f"{BUCKET}/powerbi/dim/dim_date/",
     storage_options = storage_options
 )
 
