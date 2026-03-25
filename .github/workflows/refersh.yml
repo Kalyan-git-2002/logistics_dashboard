@@ -20,7 +20,7 @@ jobs:
       
       - name: Install libraries
         run: |
-          pip install deltalake pandas pyarrow
+          pip install deltalake==0.17.4 pandas pyarrow
 
       - name: Run export script
         env:
