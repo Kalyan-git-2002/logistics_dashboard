@@ -1,5 +1,5 @@
 from deltalake import DeltaTable
-import pandas as pd
+import polars as pl
 import os
 
 storage_options = {
@@ -12,20 +12,20 @@ BUCKET = "s3://clg-demo-2026"
 
 # Read Gold Delta tables
 print("Reading fact_deliveries...")
-fact_df = DeltaTable(
+fact_df = pl.read_delta(
     f"{BUCKET}/gold/fact/",
     storage_options = storage_options
-).to_pandas()
+)
 
 print("Reading dim_date...")
-dim_df = DeltaTable(
+dim_df = pl.read_delta(
     f"{BUCKET}/gold/dim/dim_date/",
     storage_options = storage_options
-).to_pandas()
+).
 
 # Save CSV
-fact_df.to_csv("fact_deliveries.csv", index=False)
-dim_df.to_csv("dim_date.csv", index=False)
+fact_df.write_csv("fact_deliveries.csv", index=False)
+dim_df.write_csv("dim_date.csv", index=False)
 
 print(f"✅ fact → {len(fact_df)} rows")
 print(f"✅ dim  → {len(dim_df)} rows")
