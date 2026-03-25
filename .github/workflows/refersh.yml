@@ -30,8 +30,8 @@ jobs:
 
       - name: Push CSV to repo
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
+          git config --global user.email "addepallikalyan88@gmail.com"
+          git config --global user.name "Kalyan-git-2002"
           git add *.csv
           git commit -m "Daily refresh $(date)" || echo "No changes"
           git push
