@@ -1,0 +1,36 @@
+.env
+W3Schools
+ +1
+Example .gitignore file
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+vendor/
+.venv/
+
+# Build output
+dist/
+build/
+target/
+
+# Environment variables
+.env
+.env.development
+.env.production
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Compiled files
+*.pyc
+*.class
