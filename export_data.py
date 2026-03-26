@@ -15,5 +15,4 @@ try:
     df_2.to_csv("dim_date.csv",index=False)
 except Exception as  e:
     print(f"ERROR : {e}")
-    exit 1
-    
+    raise
