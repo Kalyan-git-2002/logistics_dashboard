@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 18 * * *'  # 1AM IST
   workflow_dispatch:         # manual trigger
+permissions:
+  contents: write
 
 jobs:
   export:
@@ -32,6 +34,7 @@ jobs:
         run: |
           git config --global user.email "addepallikalyan88@gmail.com"
           git config --global user.name "Kalyan-git-2002"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kalyan-git-2002/logistics_dashboard
           git add *.csv
           git commit -m "Daily refresh $(date)" || echo "No changes"
           git push
