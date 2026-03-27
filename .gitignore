@@ -34,3 +34,4 @@ Thumbs.db
 # Compiled files
 *.pyc
 *.class
+*.csv

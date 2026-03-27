@@ -1,4 +1,5 @@
 import pandas as pd
+import sys
 import boto3
 import shutil
 import dotenv as de
@@ -17,7 +18,13 @@ class Xlsx_to_paraquet:
         
     def file_transfer(self):
         files = [f for f in os.listdir(self.source_path) if f.endswith(('.xlsx','.xls','.csv'))]
+        if not files:
+            print(f'{'='*50}')
+            print(f'\033[1;91m--> No files found in the source directory {'.'*10}\033[0m')
+            print(f'{'='*50}')
+            sys.exit(1)
         for file in files:
+            print(f'{'='*50}')
             file_name = os.path.join(self.source_path,file)
             if file.endswith('.csv'):
                 df = pd.read_csv(file_name)
@@ -26,7 +33,7 @@ class Xlsx_to_paraquet:
             parquet_name = file.replace('.xlsx','.parquet').replace('.xls','.parquet').replace('.csv','.parquet')
             parquet_path = os.path.join(self.destination_path,parquet_name)
             df.to_parquet(parquet_path)
-            print(f'successfully transfered from {file} to {parquet_name}')
+            print(f'\33[1;92m{file} successfully transfered to {parquet_name}\033[0m')
 
     def upload_to_s3(self):
         try:
@@ -34,40 +41,44 @@ class Xlsx_to_paraquet:
                                      aws_access_key_id = self.AWS_ACCESS_KEY,
                                      aws_secret_access_key = self.AWS_SECRECT_KEY,
                                      region_name = self.REGION)
-            print('Connection established successfully')
+            print('\033[1;92mConnection established successfully\033[0m')
         except Exception as e:
-            print(f'Unable to create connection to AWS : {e}')
+            print(f'\033[1;91mUnable to create connection to AWS : {e}\033[0m')
         files = [f for f in os.listdir(self.destination_path) if f.endswith('.parquet')]
         for file in files :
+            print(f'{'-'*50}')
             local_path = os.path.join(self.destination_path,file)
             s3_file = f'{self.AWS_FOLDER}{file}'
             try:
                 s3_client.upload_file(local_path,self.BUCKET_NAME,s3_file)
-                print(f'{file} uploaded successfully to S3 bucket {self.BUCKET_NAME}')
+                print(f'\33[1;92m{file} uploaded successfully to S3 bucket {self.BUCKET_NAME}\033[0m')
             except Exception as e:
-                print(f'Uploading failed due to : {e}')
+                print(f'\33[1;91mUploading failed due to : {e}\033[0m')
     def delete_local_files(self):
         files = [f for f in os.listdir(self.destination_path) if f.endswith('.parquet')]
         for file in files:
+            print(f'{'-'*50}')
             file_path = os.path.join(self.destination_path,file)
             try:
                 os.remove(file_path)
-                print(f'{file} deleted successfully from local storage')
+                print(f'\33[1;92m{file} deleted successfully from local storage\033[0m')
             except Exception as e:
-                print(f'Unable to delete {file} due to : {e}')
+                print(f'\33[1;91mUnable to delete {file} due to : {e}\033[0m')
     def archive_files(self):
         archive_folder = os.path.join(self.destination_path,f'archive')
         if not os.path.exists(archive_folder):
             os.makedirs(archive_folder)
         files = [f for f in os.listdir(self.source_path) if f.endswith(('.xlsx','.xls','.csv'))]
         for file in files:
+            print(f'{'-'*50}')
             source_file = os.path.join(self.source_path,file)
             destination_file = os.path.join(archive_folder,file)
             try:
                 shutil.move(source_file,destination_file)
-                print(f'{file} archived successfully to {archive_folder}')
+                print(f'\33[1;92m{file} archived successfully to {archive_folder}\033[0m')
             except Exception as e:
-                print(f'Unable to archive {file} due to : {e}')
+                print(f'\33[1;91mUnable to archive {file} due to : {e}\033[0m')
+            print(f'{'='*50}')
 
 
 config = {'source_path' : r'C:\Users\addep\OneDrive\Desktop\project\source',
