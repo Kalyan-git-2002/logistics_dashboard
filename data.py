@@ -90,8 +90,9 @@ if __name__ == '__main__':
     transfer_files = Xlsx_to_paraquet(**modified_config)
     transfer_files.file_transfer()
     transfer_files.upload_to_s3()
-    transfer_files.archive_files()
     transfer_files.delete_local_files()
+    transfer_files.archive_files()
+    
     
 
 
