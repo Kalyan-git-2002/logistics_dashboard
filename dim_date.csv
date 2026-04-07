@@ -36,3 +36,4 @@ date,day,month,year,dayofweek,dayofyear,weekofyear,monthname,quarter,is_weekend,
 2026-04-04,4,4,2026,7,94,14,Apr,2,1,0,Apr-2026,Q2-2026
 2026-04-05,5,4,2026,1,95,14,Apr,2,1,0,Apr-2026,Q2-2026
 2026-04-06,6,4,2026,2,96,15,Apr,2,0,1,Apr-2026,Q2-2026
+2026-04-07,7,4,2026,3,97,15,Apr,2,0,1,Apr-2026,Q2-2026
