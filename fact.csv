@@ -1,4 +1,234 @@
 Employee_Name,Employee_Number,Waybill_No,Attempt_Count,First_attempt,Consignee_Name,Pincode,Amount_payable,Status,Sub_status,POD_Date,Delivery_Payment_type,RunDate
+karra basavaiah,9550288674,VL0084152810203,2,2026-05-05,kokkiligadda venkata krishna,521120,818,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084165803262,2,2026-05-05,kokkillligadda shalini,521120,481,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084165164329,3,2026-05-04,m v srinivas,521120,183,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084165874311,2,2026-05-05,viswanadapalli veerababu,521120,92,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084173898387,2,2026-05-05,lankamma bandreddi,521120,634,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084178001363,2,2026-05-05,srini,521120,96,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084175661471,2,2026-05-05,gopichand,521120,161,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084184155661,2,2026-05-05,swathi,521120,361,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084184773861,2,2026-05-05,yeswanthi,521120,172,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084179846121,2,2026-05-05,tirupathama,521120,328,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084185007303,2,2026-05-05,lankamma bandreddi,521120,743,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084180157385,2,2026-05-05,v lankamma,521120,342,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084169925341,1,2026-05-06,swarupa sajja,521120,367,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084174435716,1,2026-05-06,prasanna,521121,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084177797648,1,2026-05-06,patcha teja,521120,216,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084178438574,1,2026-05-06,b.v.vijay kumar,521120,360,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084177521126,1,2026-05-06,pangichinnarao,521120,312,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084175885987,1,2026-05-06,tungla lakshmi tripatamma,521120,174,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084171695555,1,2026-05-06,kommukuri siri,521120,62,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084166662564,1,2026-05-06,g pavan kumar,521121,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084174014101,1,2026-05-06,jamuna,521120,222,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084173961407,1,2026-05-06,ranga prasad,521120,179,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084172467916,1,2026-05-06,lakshmi kokkiligadda,521120,121,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084178667218,1,2026-05-06,n. durga prasad,521121,306,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084185058100,1,2026-05-06,panchumarthi jasawanth,521120,136,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084184981364,1,2026-05-06,kanagala simhadiri jayasri,521120,265,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084186621963,1,2026-05-06,g pavan kumar,521121,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084186189919,1,2026-05-06,lakshmi,521120,267,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084185938766,1,2026-05-06,nancharayya,521120,177,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084184947501,1,2026-05-06,puli lakshmi koteshwaramma,521120,154,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084185998178,1,2026-05-06,shriman narayan,521121,407,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084185715023,1,2026-05-06,imtyaz,521120,226,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084185917537,1,2026-05-06,saikeerthana,521120,181,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084186085077,1,2026-05-06,goli sireesha,521120,228,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084185661585,1,2026-05-06,nancharayya,521120,481,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084181476276,1,2026-05-06,ch srivalli,521120,161,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084186144576,1,2026-05-06,nayudu amleswari,521120,199,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084181171557,1,2026-05-06,nageswararao veerla,521120,138,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084183914447,1,2026-05-06,sivaji,521120,500,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084191419473,1,2026-05-06,lavanya gunturu,521120,276,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084191082877,1,2026-05-06,subbu k,521120,318,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084192649183,1,2026-05-06,jaswanthi,521120,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084191959043,1,2026-05-06,bhukya renuka,521120,276,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084187429434,1,2026-05-06,kandhula venkateswarao,521120,506,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084194542615,1,2026-05-06,ankamma,521120,342,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084188631831,1,2026-05-06,k. hema,521120,277,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084193016272,1,2026-05-06,sri lakshmi,521120,406,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084190059558,1,2026-05-06,sailu badugu,521120,126,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084193568340,1,2026-05-06,anjinelu,521120,326,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084192685768,1,2026-05-06,subbu k,521120,110,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084193350404,1,2026-05-06,bommidi. srinivas,521120,219,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084192624979,1,2026-05-06,k.srinivasarao,521120,221,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084194175584,1,2026-05-06,damerla siva narasimha rao,521121,346,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084194138283,1,2026-05-06,bandreddi srividya,521120,341,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084189616224,1,2026-05-06,a sivakalyani,521150,192,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084192490306,1,2026-05-06,jyothi kommukuri,521120,285,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084194141220,1,2026-05-06,nagamayya kola,521120,487,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084192168096,1,2026-05-06,ashoka,521120,340,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084198838350,1,2026-05-06,rama krishna tungala,521121,548,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084176802844,1,2026-05-06,viswanadapalli veerababu,521120,89,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084176819204,1,2026-05-06,krk sarma,521121,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084176146299,1,2026-05-06,nishitha,521120,147,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084176146290,1,2026-05-06,mani datta,521120,146,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084175869427,1,2026-05-06,supraja,521121,0,del,,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084171505143,1,2026-05-06,uppala nallababu,521120,286,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084177414127,1,2026-05-06,cinni,521120,183,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084172612646,1,2026-05-06,nayudu praveen,521120,127,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084182803065,1,2026-05-06,vijaya bommidi,521120,0,undel,customer unavailable / not reachable,2026-05-06,prepaid,2026-05-06
+karra basavaiah,9550288674,VL0084185232372,1,2026-05-06,v.mahalakshmayya,521120,257,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084184240286,1,2026-05-06,puli lakshmi koteshwaramma,521120,188,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084181797661,1,2026-05-06,karmbeer kumar,521120,88,del,,2026-05-06,riderapp_upi,2026-05-06
+karra basavaiah,9550288674,VL0084186410642,1,2026-05-06,aparna,521121,0,del,,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0084153540089,3,2026-05-03,ravindra,521328,149,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084169201563,3,2026-05-03,perumalla kotinagulu,521328,460,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084166759446,2,2026-05-05,rama kishor kota,521328,271,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084165661591,2,2026-05-05,ravindra,521328,311,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084165982290,2,2026-05-05,abdulkhila,521328,240,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084166759447,2,2026-05-05,rama kishor kota,521328,263,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084172093174,2,2026-05-05,durga prasad e,521328,257,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084185254739,2,2026-05-05,nagamani boddu,521328,186,del,,2026-05-06,riderapp_upi,2026-05-06
+venu katta,9703970375,VL0083946314651,1,2026-05-06,lakshmi,521328,200,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084177578352,1,2026-05-06,nagalakshmi,521328,0,del,,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0083946314649,1,2026-05-06,lakshmi,521328,171,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084176145367,1,2026-05-06,deepika,521328,165,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084175020801,1,2026-05-06,rajyalakshmi borra,521328,525,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084170989543,1,2026-05-06,maneesha polabathina,521328,433,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084175940057,1,2026-05-06,pere navya,521328,208,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084177313450,1,2026-05-06,kadavakollu nagaramesh,521328,667,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084178352424,1,2026-05-06,borra nagababu,521328,146,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084177745691,1,2026-05-06,ashabegum sk,521328,173,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084177771418,1,2026-05-06,m krupa,521328,368,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084178189201,1,2026-05-06,dhanalakshmi,521328,0,del,,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0084181593762,1,2026-05-06,gopi gade,521328,104,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084186615765,1,2026-05-06,lakshmi,521328,640,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084172042490,1,2026-05-06,seshu varikuti,521328,274,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084187610992,1,2026-05-06,dasari ramya,521328,597,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084187610994,1,2026-05-06,dasari ramya,521328,597,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084190094476,1,2026-05-06,kanna vera kumari,521328,161,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084191766026,1,2026-05-06,bhavani,521328,140,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084193333546,1,2026-05-06,navana harish,521328,545,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084192356210,1,2026-05-06,gunturu sameera,521328,130,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084192413041,1,2026-05-06,hemasiva,521328,0,undel,customer refused to give the otp,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0084188237491,1,2026-05-06,srinu,521328,326,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084193727716,1,2026-05-06,priyanka,521328,0,del,,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0084192594389,1,2026-05-06,bhupathi bala surya,521328,86,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084190305086,1,2026-05-06,tirupathi satish,521328,462,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084197386825,1,2026-05-06,aswini venna,521328,0,del,,2026-05-06,prepaid,2026-05-06
+venu katta,9703970375,VL0084188289653,1,2026-05-06,sirisha,521328,123,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084198523716,1,2026-05-06,shaik latheef,521328,507,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084173733609,1,2026-05-06,pagoluvenkataprasad,521328,140,del,,2026-05-06,riderapp_upi,2026-05-06
+venu katta,9703970375,VL0084175749855,1,2026-05-06,perni nagaraju,521328,598,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084177258520,1,2026-05-06,ch varalakshmi,521328,301,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084177242357,1,2026-05-06,koduru ratnakumari,521328,153,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+venu katta,9703970375,VL0084185190978,1,2026-05-06,manu,521328,96,del,,2026-05-06,cash,2026-05-06
+venu katta,9703970375,VL0084179105741,1,2026-05-06,basheer abdul,521328,226,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084157665582,2,2026-05-05,kamal raj,521121,102,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+annapareddy leela sankar,7670891988,VL0084174507298,2,2026-05-05,mounika,521121,301,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084178342621,1,2026-05-06,singam shanmukhi,521121,240,del,,2026-05-06,riderapp_upi,2026-05-06
+annapareddy leela sankar,7670891988,VL0084177776149,1,2026-05-06,anusha,521121,211,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084178575290,1,2026-05-06,garikepati  mani,521121,294,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+annapareddy leela sankar,7670891988,VL0084172167881,1,2026-05-06,b.anusha,521121,356,del,,2026-05-06,riderapp_upi,2026-05-06
+annapareddy leela sankar,7670891988,VL0084181345858,1,2026-05-06,suseela,521121,103,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084184749527,1,2026-05-06,swathi dhikshthi,521121,255,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+annapareddy leela sankar,7670891988,VL0084185263789,1,2026-05-06,durga,521121,0,del,,2026-05-06,prepaid,2026-05-06
+annapareddy leela sankar,7670891988,VL0084191150843,1,2026-05-06,padma,521121,0,del,,2026-05-06,prepaid,2026-05-06
+annapareddy leela sankar,7670891988,VL0084192314600,1,2026-05-06,kaithepalli neelima,521121,465,del,,2026-05-06,riderapp_upi,2026-05-06
+annapareddy leela sankar,7670891988,VL0084192060373,1,2026-05-06,rafikunisa m,521121,150,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084187734619,1,2026-05-06,ashok.m,521121,348,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084169505640,1,2026-05-06,punnamma kumbha,521121,210,del,,2026-05-06,riderapp_upi,2026-05-06
+annapareddy leela sankar,7670891988,VL0084176639099,1,2026-05-06,"k,srinu",521121,376,del,,2026-05-06,cash,2026-05-06
+annapareddy leela sankar,7670891988,VL0084178243767,1,2026-05-06,nagamalleswaro,521121,190,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+annapareddy leela sankar,7670891988,VL0084172167888,1,2026-05-06,b.anusha,521121,356,del,,2026-05-06,riderapp_upi,2026-05-06
+didla venkata ramana,9603541321,VL0084162589824,3,2026-05-04,m lavanya,521121,138,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084176684276,2,2026-05-05,gowtham poliboina,521121,278,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084178198387,1,2026-05-06,nancharaiah,521121,206,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084178173875,1,2026-05-06,nani inunampudi,521121,280,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084176824837,1,2026-05-06,nani inunampudi,521121,261,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084181184807,1,2026-05-06,bhogadi.subrahmanyam,521121,617,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084179781171,1,2026-05-06,chennu basava bhanu,521121,286,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084182753737,1,2026-05-06,durga lakshmi,521121,193,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084194152849,1,2026-05-06,suma,521120,191,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084192630091,1,2026-05-06,dharmaraju,521121,349,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+didla venkata ramana,9603541321,VL0084193223761,1,2026-05-06,d.mahesh,521121,396,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084192913217,1,2026-05-06,aariga kalyani,521121,255,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084190292593,1,2026-05-06,b anitha,521121,119,del,,2026-05-06,cash,2026-05-06
+didla venkata ramana,9603541321,VL0084171534944,1,2026-05-06,veerakumari mandala,521121,0,del,,2026-05-06,prepaid,2026-05-06
+didla venkata ramana,9603541321,VL0084178123104,1,2026-05-06,thanali vijaya,521125,0,del,,2026-05-06,prepaid,2026-05-06
+didla venkata ramana,9603541321,VL0084176736045,1,2026-05-06,koteshwararao,521121,201,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084178474234,2,2026-05-05,sony,521120,113,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+karra basavaiah,9550288674,VL0084176262897,1,2026-05-06,likitha,521120,124,del,,2026-05-06,cash,2026-05-06
+karra basavaiah,9550288674,VL0084180138000,1,2026-05-06,aruna,521120,137,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084181878035,2,2026-05-05,lanke santhi,521120,215,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084173783797,1,2026-05-06,bonigala ravi,521120,474,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084173936273,1,2026-05-06,naveen kumar lebaka,521120,178,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084178240565,1,2026-05-06,k anil kumar,521120,253,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084177681541,1,2026-05-06,rudra bidika,521120,233,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084171876980,1,2026-05-06,raja,521120,217,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084181665334,1,2026-05-06,reshma pavani,521120,547,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084177749709,1,2026-05-06,boddu  edukondalu,521120,182,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084181433335,1,2026-05-06,saikam bhargavi,521120,182,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084180807972,1,2026-05-06,raja,521120,157,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084185525236,1,2026-05-06,naburi venkatalakshmi,521120,186,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084185376166,1,2026-05-06,b krishnaveni,521120,340,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084186197353,1,2026-05-06,k. pothu raju,521120,320,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084193133618,1,2026-05-06,sivarama krishna devanaboiyna,521120,227,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084193104433,1,2026-05-06,shiva,521120,646,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084192696617,1,2026-05-06,n. meerasaheb,521120,180,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084192352126,1,2026-05-06,b krishnaveni,521120,135,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084192490468,1,2026-05-06,saikam  veeraju,521120,169,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084191598323,1,2026-05-06,nakka tulasi,521120,101,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084191165972,1,2026-05-06,malladi sajeeva,521120,178,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+kanajala eswar rao,9121985479,VL0084192544168,1,2026-05-06,lanke venkata srinivasarao,521120,122,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084193714955,1,2026-05-06,shiva,521120,440,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084173306666,1,2026-05-06,lakshmi,521120,175,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084176487333,1,2026-05-06,choppara chinnababu,521120,99,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084179678068,1,2026-05-06,nn rajini,521120,314,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084182045038,1,2026-05-06,k.siva,521120,266,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084148154943,3,2026-05-03,naveen sammeta,521121,263,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084161846373,3,2026-05-04,lavanya naidu pasam,521121,0,undel,customer unavailable / not reachable,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084175740474,2,2026-05-05,lankamma,521121,474,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084173788484,2,2026-05-05,ch malliswari,521121,165,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084175770069,2,2026-05-05,boppana lakshmi,521121,307,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084170020167,2,2026-05-05,saikam amulya,521121,292,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084176686468,1,2026-05-06,saikam amulya,521121,324,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084176806162,1,2026-05-06,parmila,521121,194,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084176841023,1,2026-05-06,aruna kumari,521328,129,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084172034349,1,2026-05-06,smily lucky,521121,108,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084171928825,1,2026-05-06,bejawada ravi,521328,166,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084176391566,1,2026-05-06,gopala krishna murthy,521121,159,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084173816365,1,2026-05-06,govi,521121,139,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084179124027,1,2026-05-06,chuma,521121,230,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084184616612,1,2026-05-06,kiran tadepalli,521121,323,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084185510502,1,2026-05-06,dharma,521121,311,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084192831934,1,2026-05-06,penumaka lakshmi,521121,536,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084193301261,1,2026-05-06,sai,521121,186,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084192542910,1,2026-05-06,bindu,521121,200,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084187847159,1,2026-05-06,lakshmi,521121,490,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084187976815,1,2026-05-06,g.v.kiran,521121,215,undel,customer refused to accept,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084186666560,1,2026-05-06,parvathi thota,521121,267,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084193421307,1,2026-05-06,yesu babu mathi,521125,425,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084165489852,1,2026-05-06,kokkiligadda nagalakshmi,521121,0,del,,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084173952501,1,2026-05-06,b.chaithu,521328,0,del,,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084174888883,1,2026-05-06,ramana,521121,121,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084172194223,1,2026-05-06,reshma roy,521121,0,del,,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084174105932,1,2026-05-06,battula sruthi,521130,169,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084173770485,1,2026-05-06,k latha sri,521121,0,del,,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084178118383,1,2026-05-06,bindu,521121,168,undel,customer unavailable / not reachable,2026-05-06,cod,2026-05-06
+simhadri venkatarao,9618484518,VL0084157935279,1,2026-05-06,venkateswara rao,521121,0,del,,2026-05-06,prepaid,2026-05-06
+simhadri venkatarao,9618484518,VL0084185371193,1,2026-05-06,munna,521121,116,del,,2026-05-06,cash,2026-05-06
+simhadri venkatarao,9618484518,VL0084184326451,1,2026-05-06,nageswarao maddala,521121,0,del,,2026-05-06,prepaid,2026-05-06
+kiran srisairam,9392968677,VL0084163196361,3,2026-05-04,chanti,521120,126,undel,customer refused to give the otp,2026-05-06,cod,2026-05-06
+kiran srisairam,9392968677,VL0084166815703,3,2026-05-04,koppanathi veerulu,521120,149,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084164825467,3,2026-05-04,mariama,521120,165,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084155867312,1,2026-05-06,yohan kumar,521120,359,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084178604984,1,2026-05-06,sunil kumar,521120,208,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084178813001,1,2026-05-06,bhanu,521120,134,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084177156097,1,2026-05-06,ganesh peddha sing,521120,150,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084176973728,1,2026-05-06,dasu chatragadda,521120,115,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084183823810,1,2026-05-06,sushma kamatham,521120,0,del,,2026-05-06,prepaid,2026-05-06
+kiran srisairam,9392968677,VL0084181124620,1,2026-05-06,chatragadda sathish,521120,306,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084181539333,1,2026-05-06,p purnachandarao,521120,148,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084181912974,1,2026-05-06,swathi reddy,521120,1854,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084181155911,1,2026-05-06,swathi reddy,521120,481,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084193500539,1,2026-05-06,prasad,521120,191,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084190303166,1,2026-05-06,padamati durgarao,521120,125,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084159692811,1,2026-05-06,devaki devi,521120,0,del,,2026-05-06,prepaid,2026-05-06
+kiran srisairam,9392968677,VL0084178149330,1,2026-05-06,ramu koppanathi,521120,245,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084185473849,1,2026-05-06,koppanathi lakshman,521120,186,del,,2026-05-06,cash,2026-05-06
+kiran srisairam,9392968677,VL0084186328603,1,2026-05-06,venkateswarao bellamkonda,521120,202,del,,2026-05-06,cash,2026-05-06
+kanajala eswar rao,9121985479,VL0084185750231,1,2026-05-06,lanke sai ram,521120,473,del,,2026-05-06,cash,2026-05-06
 venu katta,9703970375,VL0083889152313,3,2026-04-01,kola,521328,193,undel,customer refused to give the otp,2026-04-04,cod,2026-04-04
 venu katta,9703970375,VL0083905893593,2,2026-04-02,j chinna,521328,557,undel,customer refused to accept,2026-04-04,cod,2026-04-04
 venu katta,9703970375,VL0083901258663,2,2026-04-02,chitti near humma temple,521003,136,undel,customer refused to accept,2026-04-04,cod,2026-04-04
@@ -10711,6 +10941,211 @@ kiran srisairam,9392968677,VL0084000930082,1,2026-04-13,nerudi rani,521120,144,d
 kiran srisairam,9392968677,VL0084013078231,1,2026-04-13,chatragadda subhashini,521120,524,undel,customer refused to accept,2026-04-13,cod,2026-04-13
 kiran srisairam,9392968677,VL0084006662407,1,2026-04-13,sanjay,521120,190,del,,2026-04-13,cash,2026-04-13
 kiran srisairam,9392968677,VL0084011640083,1,2026-04-13,ramana,521120,237,del,,2026-04-13,cash,2026-04-13
+venu katta,9703970375,VL0084145104065,3,2026-05-02,sinu kanddula,521328,225,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084148820771,3,2026-05-02,perumalla kotinagulu,521328,594,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084147117218,3,2026-05-02,sinu kanddula,521328,226,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084153540089,2,2026-05-03,ravindra,521328,149,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084159455537,2,2026-05-03,suresh bezawada,521328,290,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084169201563,2,2026-05-03,perumalla kotinagulu,521328,460,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084155862373,1,2026-05-05,appikatala  narasimha rao,521328,283,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084157443414,1,2026-05-05,pulla chaitanya,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084168748877,1,2026-05-05,bhagavanthurwo,521328,291,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084177495803,1,2026-05-05,ch haritha,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084177283095,1,2026-05-05,usha rani,521328,282,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084166759446,1,2026-05-05,rama kishor kota,521328,271,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084165661591,1,2026-05-05,ravindra,521328,311,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084168367602,1,2026-05-05,upendra,521328,322,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084165982290,1,2026-05-05,abdulkhila,521328,240,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084169125701,1,2026-05-05,kagitha murali,521328,171,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084163704962,1,2026-05-05,vaka rajini kumari,521328,650,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084165931773,1,2026-05-05,dhanalakshmi,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084166759447,1,2026-05-05,rama kishor kota,521328,263,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084175856696,1,2026-05-05,bose,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084175407647,1,2026-05-05,anusha,521328,218,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084178796548,1,2026-05-05,srinu maganti,521328,284,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084176791974,1,2026-05-05,manikanta,521328,425,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084149552554,1,2026-05-05,lokesh bellamkonda,521328,440,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084176670434,1,2026-05-05,maneesha polabathina,521328,349,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084173918625,1,2026-05-05,a malleswari,521328,582,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084172343302,1,2026-05-05,basheer abdul,521328,246,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084175911789,1,2026-05-05,dasi munna,521328,199,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084172093174,1,2026-05-05,durga prasad e,521328,257,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084178134481,1,2026-05-05,nagendra babu,521328,370,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084176928069,1,2026-05-05,k.tirupatamma,521328,408,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084178216400,1,2026-05-05,mounika,521328,480,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084185338678,1,2026-05-05,nagamani,521328,399,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084183929311,1,2026-05-05,naga murali,521328,185,del,,2026-05-05,riderapp_upi,2026-05-05
+venu katta,9703970375,VL0084185417176,1,2026-05-05,swathi bellamkonda,521328,362,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084180228675,1,2026-05-05,divya sri tata,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084184188276,1,2026-05-05,sirisha,521328,626,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084185387197,1,2026-05-05,kokkiligadda subbarso,521328,98,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084184601160,1,2026-05-05,padma kagita,521328,0,del,,2026-05-05,prepaid,2026-05-05
+venu katta,9703970375,VL0084185254739,1,2026-05-05,nagamani boddu,521328,186,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084184038821,1,2026-05-05,rani,521328,287,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084180101453,1,2026-05-05,posamma,521328,265,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084184551708,1,2026-05-05,rajesh,521328,166,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084185168177,1,2026-05-05,nagendra babu,521328,484,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084174758114,1,2026-05-05,rajesh,521328,457,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+venu katta,9703970375,VL0084181672654,1,2026-05-05,posamma,521328,97,del,,2026-05-05,cash,2026-05-05
+venu katta,9703970375,VL0084180271309,1,2026-05-05,totadevi,521328,377,del,,2026-05-05,cash,2026-05-05
+kanajala eswar rao,9121985479,VL0084168430267,3,2026-05-03,srinu bandreddi,521120,321,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084166112890,3,2026-05-03,kanna veeranayarana,521120,228,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084170207425,2,2026-05-04,kumarl,521120,242,del,,2026-05-05,cash,2026-05-05
+kanajala eswar rao,9121985479,VL0084164450867,2,2026-05-04,kolluri manisha,521120,256,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084175591587,1,2026-05-05,yanadhirao kollu,521120,506,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084174531000,1,2026-05-05,raji tirumalasetti,521120,150,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084174127037,1,2026-05-05,karra baburao,521120,513,del,,2026-05-05,cash,2026-05-05
+kanajala eswar rao,9121985479,VL0084176938223,1,2026-05-05,balarajuvallabhuni,521120,162,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084177375206,1,2026-05-05,raja,521120,176,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084181609911,1,2026-05-05,lanke santhi,521120,452,del,,2026-05-05,cash,2026-05-05
+kanajala eswar rao,9121985479,VL0084173762308,1,2026-05-05,balraju,521120,373,del,,2026-05-05,cash,2026-05-05
+kanajala eswar rao,9121985479,VL0084183918565,1,2026-05-05,radhika kandula,521120,574,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084181878035,1,2026-05-05,lanke santhi,521120,215,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+kanajala eswar rao,9121985479,VL0084173762312,1,2026-05-05,balraju,521120,261,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084155205866,3,2026-05-03,rajesh done,521120,158,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084157500993,2,2026-05-04,uday lakshmi remala,521120,357,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084163196361,2,2026-05-04,chanti,521120,126,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084168574755,2,2026-05-04,tireesha yakkati,521120,287,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084177302084,1,2026-05-05,katta sravani,521120,535,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084178474234,1,2026-05-05,sony,521120,113,undel,customer refused to give the otp,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084170280118,1,2026-05-05,draksha,521120,233,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084173963938,1,2026-05-05,nagamallisawari,521120,121,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+kiran srisairam,9392968677,VL0084176642837,1,2026-05-05,dasari rajeswararao,521120,135,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084166611632,1,2026-05-05,ramana,521120,272,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084176573252,1,2026-05-05,manasa kotra,521120,1122,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084185121905,1,2026-05-05,ch padma,521120,140,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084183989657,1,2026-05-05,venkata lakshmi,521120,608,del,,2026-05-05,cash,2026-05-05
+kiran srisairam,9392968677,VL0084184845866,1,2026-05-05,v bhagyasri,521120,107,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084152810203,1,2026-05-05,kokkiligadda venkata krishna,521120,818,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084100835274,3,2026-05-03,sindhu ambati,521120,0,undel,customer unavailable / not reachable,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084165803262,1,2026-05-05,kokkillligadda shalini,521120,481,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084166815703,2,2026-05-04,koppanathi veerulu,521120,149,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084164825467,2,2026-05-04,mariama,521120,165,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084165164329,2,2026-05-04,m v srinivas,521120,183,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084155930979,1,2026-05-05,laxmi prasanna,521121,361,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084155863170,1,2026-05-05,laxmi prasanna,521121,334,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084165874311,1,2026-05-05,viswanadapalli veerababu,521120,92,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084175191270,1,2026-05-05,odugu paparao,521120,255,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084168362518,1,2026-05-05,naveen janu,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084164978501,1,2026-05-05,shoba rani dasari,521120,155,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084173898387,1,2026-05-05,lankamma bandreddi,521120,634,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084176795850,1,2026-05-05,nagamani thota,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084172086461,1,2026-05-05,ramadevi bommalaramadevi,521120,253,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084178001363,1,2026-05-05,srini,521120,96,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084175661471,1,2026-05-05,gopichand,521120,161,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084176246411,1,2026-05-05,jhansi rani,521120,525,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084176518030,1,2026-05-05,dhana,521120,173,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084177228715,1,2026-05-05,avula satyanarayana,521120,459,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084148919411,1,2026-05-05,kokkiligadda anitha,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084171740516,1,2026-05-05,nancharayya,521120,292,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084172044763,1,2026-05-05,n.chenakeswa rap,521120,568,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084173281523,1,2026-05-05,john yalavarthi,521120,425,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084154590414,1,2026-05-05,nagamani thota,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084176132057,1,2026-05-05,subbarao,521120,416,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084176674018,1,2026-05-05,likitha,521120,289,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084178793194,1,2026-05-05,sudhakar,521120,397,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084175824775,1,2026-05-05,kanagala chanbu,521120,274,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084165843351,1,2026-05-05,andiprolu jayaraz,521120,29,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084178491489,1,2026-05-05,pangichinnarao,521120,421,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084177584093,1,2026-05-05,nagamani thota,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084177341577,1,2026-05-05,lakshmi kokkiligadda,521120,124,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084178118726,1,2026-05-05,nageswararao veerla,521120,166,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084174400047,1,2026-05-05,sravani krishna,521120,312,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084168396630,1,2026-05-05,kokkiligadda sandhya,521120,174,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084184155661,1,2026-05-05,swathi,521120,361,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084184773861,1,2026-05-05,yeswanthi,521120,172,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084169845199,1,2026-05-05,jyothi sampangi,521120,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084182012452,1,2026-05-05,a   rajababu,521121,179,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084179846121,1,2026-05-05,tirupathama,521120,328,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084184134199,1,2026-05-05,v arjunamma sangameswaram,521120,161,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084185133338,1,2026-05-05,lavanya sri,521120,196,del,,2026-05-05,riderapp_upi,2026-05-05
+karra basavaiah,9550288674,VL0084183616633,1,2026-05-05,shriman narayan,521121,531,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084183879182,1,2026-05-05,shoba rani dasari,521120,974,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084183439226,1,2026-05-05,amarash kumar,521120,664,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084184087426,1,2026-05-05,g. poorna chandra rao,521120,208,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084181537271,1,2026-05-05,g rajani,521120,134,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084182392775,1,2026-05-05,gudivaka padmavathi,521121,0,del,,2026-05-05,prepaid,2026-05-05
+karra basavaiah,9550288674,VL0084189773974,1,2026-05-05,danteswari,521121,875,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084185007303,1,2026-05-05,lankamma bandreddi,521120,743,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084180105185,1,2026-05-05,bommala lakshmaiah,521120,152,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084182499813,1,2026-05-05,usman,521120,587,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084180157385,1,2026-05-05,v lankamma,521120,342,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+karra basavaiah,9550288674,VL0084190670923,1,2026-05-05,gana,521120,629,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084179530098,1,2026-05-05,odugu nares,521120,312,del,,2026-05-05,cash,2026-05-05
+karra basavaiah,9550288674,VL0084182039485,1,2026-05-05,k. hema,521120,307,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084161846373,2,2026-05-04,lavanya naidu pasam,521121,0,undel,customer unavailable / not reachable,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084167472571,2,2026-05-04,gosai mathi,521121,325,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084160512369,1,2026-05-05,harish yelisetti,521328,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084170037133,1,2026-05-05,m.raji,521121,368,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084170058224,1,2026-05-05,sujatha kommineni,521121,383,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084175740474,1,2026-05-05,lankamma,521121,474,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084174559471,1,2026-05-05,viswanadhuni pavani,521328,124,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084173788484,1,2026-05-05,ch malliswari,521121,165,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084176080581,1,2026-05-05,a rama chandra rao,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084176888046,1,2026-05-05,sivanji kolasani,521130,582,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084171624397,1,2026-05-05,suma,521120,128,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084175770069,1,2026-05-05,boppana lakshmi,521121,307,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084173868850,1,2026-05-05,nandu,521121,523,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084173776921,1,2026-05-05,m amrutha valli,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084183325042,1,2026-05-05,k.nagababu,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084176163583,1,2026-05-05,a prasad,521328,249,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084174660250,1,2026-05-05,p.rama krishna,521121,339,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084167132892,1,2026-05-05,bhavana sandeep,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084178093433,1,2026-05-05,blnprasad,521121,146,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084174137002,1,2026-05-05,dharma,521121,221,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084183819707,1,2026-05-05,sravani bhupathi,521121,970,del,,2026-05-05,riderapp_upi,2026-05-05
+simhadri venkatarao,9618484518,VL0084185909224,1,2026-05-05,chandu,521130,172,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084179957329,1,2026-05-05,ramisetti krishna kumari,521121,293,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084185108021,1,2026-05-05,hemu thota,521121,155,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084180016916,1,2026-05-05,kodali.utharakumari,521121,295,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084185667249,1,2026-05-05,pedapudi veeragavamma,521121,203,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084184354372,1,2026-05-05,venkataramarao batchu,521121,197,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084185167367,1,2026-05-05,nagababu,521121,190,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+simhadri venkatarao,9618484518,VL0084184957247,1,2026-05-05,p.bhavani,521121,264,del,,2026-05-05,cash,2026-05-05
+simhadri venkatarao,9618484518,VL0084184231990,1,2026-05-05,k maha lakshmi,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084185453712,1,2026-05-05,k latha sri,521121,0,del,,2026-05-05,prepaid,2026-05-05
+simhadri venkatarao,9618484518,VL0084170020167,1,2026-05-05,saikam amulya,521121,292,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084142472292,3,2026-05-03,m lavanya,521121,201,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084159038585,3,2026-05-03,m lavanya,521121,838,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084158456656,2,2026-05-04,revathi,521121,0,del,,2026-05-05,prepaid,2026-05-05
+didla venkata ramana,9603541321,VL0084158456655,2,2026-05-04,revathi,521121,0,del,,2026-05-05,prepaid,2026-05-05
+didla venkata ramana,9603541321,VL0084165222221,2,2026-05-04,maheswari,521121,750,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084162589824,2,2026-05-04,m lavanya,521121,138,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084176791970,1,2026-05-05,v phani,521130,445,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084176684276,1,2026-05-05,gowtham poliboina,521121,278,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+didla venkata ramana,9603541321,VL0084178599517,1,2026-05-05,putti neelima,521130,590,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084186023525,1,2026-05-05,d.mahesh,521121,124,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084180258991,1,2026-05-05,pratap devella,521121,263,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084185042454,1,2026-05-05,josh kumari kumari,521121,258,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084184577767,1,2026-05-05,k sasi,521121,407,del,,2026-05-05,cash,2026-05-05
+didla venkata ramana,9603541321,VL0084185146535,1,2026-05-05,v l kanchanamala,521121,0,del,,2026-05-05,prepaid,2026-05-05
+didla venkata ramana,9603541321,VL0084184234128,1,2026-05-05,p.subbamma,521121,115,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084146676187,2,2026-05-03,ejjineni balaji,521328,273,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084157794470,2,2026-05-03,srimannarayana,521328,368,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084168487378,3,2026-05-03,divya,521328,573,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084168416560,2,2026-05-03,rajesh kondagori,521328,521,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084163939962,2,2026-05-03,janu,521328,553,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084163686470,2,2026-05-03,chilakalapudi abhimanyudu,521328,262,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084176147852,1,2026-05-05,chintala ratnakumari,521328,473,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084177302794,1,2026-05-05,ravi,521328,0,del,,2026-05-05,prepaid,2026-05-05
+yesubabu annapareddy,9492937212,VL0084174870549,1,2026-05-05,venu padamati,521328,167,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084173894892,1,2026-05-05,jasmi,521328,146,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084178839075,1,2026-05-05,siddhinani durgaprasad,521328,280,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084184388101,1,2026-05-05,keerthi,521328,136,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084183716000,1,2026-05-05,sasikala dabe,521328,442,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084179420692,1,2026-05-05,manisha maddala manisha maddala,521328,116,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084185342123,1,2026-05-05,jyothi,521328,107,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+yesubabu annapareddy,9492937212,VL0084184866490,1,2026-05-05,jahnavi ramanu,521328,351,del,,2026-05-05,cash,2026-05-05
+yesubabu annapareddy,9492937212,VL0084184251099,1,2026-05-05,siggam sitti lavanya,521328,90,del,,2026-05-05,cash,2026-05-05
+annapareddy leela sankar,7670891988,VL0084157665582,1,2026-05-05,kamal raj,521121,102,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+annapareddy leela sankar,7670891988,VL0084177115521,1,2026-05-05,singam shanmukhi,521121,268,del,,2026-05-05,cash,2026-05-05
+annapareddy leela sankar,7670891988,VL0084175633721,1,2026-05-05,muthyala sivaparvathi,521121,0,del,,2026-05-05,prepaid,2026-05-05
+annapareddy leela sankar,7670891988,VL0084174507298,1,2026-05-05,mounika,521121,301,undel,customer unavailable / not reachable,2026-05-05,cod,2026-05-05
+annapareddy leela sankar,7670891988,VL0084183930629,1,2026-05-05,r akhila,521121,317,del,,2026-05-05,riderapp_upi,2026-05-05
+annapareddy leela sankar,7670891988,VL0084185444369,1,2026-05-05,thaimashini kokkiligadda,521121,0,del,,2026-05-05,prepaid,2026-05-05
+annapareddy leela sankar,7670891988,VL0084180140915,1,2026-05-05,p.prasanthi,521121,241,undel,customer refused to accept,2026-05-05,cod,2026-05-05
+annapareddy leela sankar,7670891988,VL0084183398885,1,2026-05-05,inampudi venkateswararao,521121,0,del,,2026-05-05,prepaid,2026-05-05
+annapareddy leela sankar,7670891988,VL0084181867988,1,2026-05-05,mounika,521121,0,del,,2026-05-05,prepaid,2026-05-05
 simhadri venkatarao,9618484518,VL0084125542675,3,2026-04-28,reppale. dillisri,521121,497,undel,customer refused to accept,2026-04-30,cod,2026-04-30
 simhadri venkatarao,9618484518,VL0084125542661,3,2026-04-28,reppale. dillisri,521121,487,undel,customer refused to accept,2026-04-30,cod,2026-04-30
 simhadri venkatarao,9618484518,VL0084136867636,3,2026-04-28,koppanathi rajasekhar,521328,343,undel,customer unavailable / not reachable,2026-04-30,cod,2026-04-30
