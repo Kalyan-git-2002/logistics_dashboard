@@ -22,7 +22,7 @@ jobs:
       
       - name: Install libraries
         run: |
-          pip install s3fs pandas==1.5.3 pyarrow==14.0.1
+          pip install s3fs pandas pyarrow
 
       - name: Run export script
         env:
