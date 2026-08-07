@@ -22,7 +22,7 @@ jobs:
       
       - name: Install libraries
         run: |
-          pip install s3fs pandas pyarrow
+          pip install deltalake boto3 pyarrow pandas
 
       - name: Run export script
         env:
