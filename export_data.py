@@ -6,7 +6,7 @@ try:
     storage_options = {
     "AWS_ACCESS_KEY_ID":os.getenv("AWS_ACCESS_KEY"),
     "AWS_SECRECT_ACCESS_KEY":os.getenv("AWS_SECRET_KEY"),
-    "AWS_REGION":"us-east-1"
+    "AWS_REGION":"us-east-1",
     "AWS_S3_ALLOW_UNSAFE_RENAME":"true",
     "AWS_ALLOW_HTTP":"false"}
     
