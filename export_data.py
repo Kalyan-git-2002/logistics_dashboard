@@ -3,10 +3,7 @@ import os
 from deltalake import DeltaTable
 
 try:
-    storage_options = {
-    "AWS_ACCESS_KEY_ID":os.getenv("AWS_ACCESS_KEY"),
-    "AWS_SECRECT_ACCESS_KEY":os.getenv("AWS_SECRET_KEY"),
-    "AWS_REGION":"us-east-1"}
+    storage_options = {}
     
     bucket_1 = "s3://clg-demo-2026/gold/fact/"
     bucket_2 = "s3://clg-demo-2026/gold/dim/dim_date/"
